@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+yfinance
+cupy  # optional, GPU version of Universal Portfolio
+torch  # optional, PyTorch test version

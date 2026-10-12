@@ -1,0 +1,5 @@
+vb_ftrl_restart/data/*.csv
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.venv/
